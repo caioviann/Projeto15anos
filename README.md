@@ -7,6 +7,7 @@
 - Permitir Pagamento de Presente via Pix.
 - Permitir exibição da Localização do Evento.
 - Permitir exibição da Data do Evento.
+- Permitir confirmação de presença.
 
 ### Requisitos desejáveis, não obrigatórios
 
