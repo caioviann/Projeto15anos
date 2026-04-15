@@ -1,4 +1,8 @@
 # Projeto 15 anos
+## Objetivo
+Realizar um softaware para um aniversário de 15 anos como forma de convite.
+# Visão Geral do Sistema
+O Software será utilizado como convite onde os convidados verão a localização do evento, poderão comprar presentes, confimar sua presença e deixar um recado.
 
 ## Requisitos
 
@@ -17,3 +21,9 @@
 
 - Seguir Identidade Visual do Evento.
 - O sistema deve ter boa responsividade.
+
+## Regra de negócio
+
+- Usuário deve pesquisar seu nome na lista de presença e o sistema deve mostrar as opções(evitar duplicados)
+- limitar invited people(nunca deixar  confimar mais do que foi convidado).
+- Ter data limite para confimação de presença
