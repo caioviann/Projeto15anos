@@ -1,9 +1,16 @@
 import './App.css'
-import LogoComponent from './components/Logo/LogoComponent'
+import DescriptionComponent from './components/Description/DescriptionComponent.tsx'
+import LogoComponent from './components/Logo/LogoComponent.tsx'
+import TimeComponent from './components/Time/TimeComponent.tsx'
 
 function App() {
   return (
-    <LogoComponent/>
+    <div className="app">
+      <LogoComponent/>
+      <TimeComponent/>
+      <DescriptionComponent/>
+      <TimeComponent/>
+    </div>
   )
 }
 

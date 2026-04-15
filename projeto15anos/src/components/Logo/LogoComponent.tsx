@@ -1,9 +1,11 @@
 import "./style.css"
+import logo from "../../assets/logoCamilly-removebg-preview.png"
 
 function LogoComponent() {
     return (
-        <div>
-            <p>Camilly Cristina Nunes Viana</p>
+        <div id="logo-container">
+            <img src={logo} id="imgLogo"/>
+            <p>18 | 07 | 2026</p>
         </div>
     )
 }
