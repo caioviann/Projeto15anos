@@ -53,7 +53,7 @@ function TimeComponent() {
                 <p className="time-finished">🎉 O grande dia chegou! 🎉</p>
             ) : (
                 <>
-                    <p className="time-title">Faltam</p>
+                    <p className="time-title">Contagem Regressiva</p>
                     <div className="time-grid">
                         <div className="time-block">
                             <span className="time-value">{padNumber(timeLeft.dias)}</span>
