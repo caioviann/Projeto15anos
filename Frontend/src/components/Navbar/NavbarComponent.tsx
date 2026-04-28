@@ -7,7 +7,7 @@ function NavbarComponent() {
     const menuItems = [
         { label: "Home", href: "#logo-container" },
         { label: "Sobre", href: "#sobre" },
-        { label: "Recepção", href: "#recepcao" },
+        { label: "Recepção", href: "#maps-container" },
         { label: "Lista de Presentes", href: "#lista-de-presentes" },
         { label: "Confirme sua Presença", href: "#confirme-presenca" },
         { label: "Recados", href: "#recados" },
