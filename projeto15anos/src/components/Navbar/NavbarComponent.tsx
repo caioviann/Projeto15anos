@@ -5,7 +5,7 @@ function NavbarComponent() {
     const [menuOpen, setMenuOpen] = useState(false)
 
     const menuItems = [
-        { label: "Home", href: "#home" },
+        { label: "Home", href: "#logo-container" },
         { label: "Sobre", href: "#sobre" },
         { label: "Recepção", href: "#recepcao" },
         { label: "Lista de Presentes", href: "#lista-de-presentes" },

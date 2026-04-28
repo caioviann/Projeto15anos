@@ -1,5 +1,5 @@
 import './App.css'
-import DescriptionComponent from './components/Description/DescriptionComponent.tsx'
+import EventoComponent from './components/Evento/EventoComponent.tsx'
 import LogoComponent from './components/Logo/LogoComponent.tsx'
 import NavbarComponent from './components/Navbar/NavbarComponent.tsx'
 import SobreComponent from './components/Sobre/SobreComponent.tsx'
@@ -12,7 +12,7 @@ function App() {
       <LogoComponent />
       <TimeComponent />
       <SobreComponent />
-      <DescriptionComponent />
+      <EventoComponent />
     </div>
   )
 }
